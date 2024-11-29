@@ -1,0 +1,54 @@
+header{
+    background-color: black;
+    padding: 30px;
+    flex-wrap: wrap;
+    text-align: right;
+    display: flex;
+}
+header a{
+    margin: 0 10px;
+    flex-wrap: wrap;
+}
+footer{
+    background-color: black;
+    height: 35px;
+
+}
+#NavBar{
+    margin-top: 125px;
+    margin-left: 200px;
+    flex-wrap: wrap;
+}
+#logoIMG{
+    flex-wrap: wrap;
+    object-fit: cover;
+    height: 221px;
+    width: 250px;
+}
+
+footer {
+    background-color:  #000000 ;
+    height: 100px;
+    width: 100%;
+ 
+}
+.text{
+    text-align: start;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.redeS {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redeS a {
+    margin: 0 10px; 
+}
+#boton{
+align-items: center;
+justify-content: center;
+display: flex;
+}
